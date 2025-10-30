@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"overberne.com/worlde/assets"
-	"overberne.com/worlde/pkg/wordle"
+	"github.com/Backshifted/wordle-solver/assets"
+	"github.com/Backshifted/wordle-solver/pkg/wordle"
 )
 
 const usage = `usage:

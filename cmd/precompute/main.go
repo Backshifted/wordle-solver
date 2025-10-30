@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"overberne.com/worlde/assets"
-	"overberne.com/worlde/pkg/wordle"
+	"github.com/Backshifted/wordle-solver/assets"
+	"github.com/Backshifted/wordle-solver/pkg/wordle"
 )
 
 func main() {

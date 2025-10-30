@@ -9,7 +9,7 @@ import (
 	"sync"
 	"unicode"
 
-	"overberne.com/worlde/assets"
+	"github.com/Backshifted/wordle-solver/assets"
 )
 
 type (

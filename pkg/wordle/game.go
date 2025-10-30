@@ -5,7 +5,7 @@ import (
 	"slices"
 	"strings"
 
-	"overberne.com/worlde/assets"
+	"github.com/Backshifted/wordle-solver/assets"
 )
 
 const (
