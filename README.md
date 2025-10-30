@@ -2,6 +2,10 @@
 
 Created this Wordle solver on a whim due to playing daily puzzles with a friend.
 
+## Usage
+
+Run the program with `go run ./cmd/solver/` then start the solver or a new game by typing `solve` or `play`.
+
 ## Methodology
 
 ### Wordle trees
